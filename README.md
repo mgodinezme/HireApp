@@ -1,3 +1,3 @@
 # HireApp
 
-![Screenshot]\(https://i.imgur.com/nLSiSpN.jpg)
+![Imgur Image](https://i.imgur.com/nLSiSpN.jpg)
