@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HireApp</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_id">Item ID</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_id">Sort By ID</string>
+    <string name="sync_new_data">Sync New Data</string>
+</resources>
